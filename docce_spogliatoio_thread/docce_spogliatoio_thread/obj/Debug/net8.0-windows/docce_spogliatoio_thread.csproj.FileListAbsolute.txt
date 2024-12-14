@@ -1,0 +1,16 @@
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\bin\Debug\net8.0-windows\docce_spogliatoio_thread.exe
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\bin\Debug\net8.0-windows\docce_spogliatoio_thread.deps.json
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\bin\Debug\net8.0-windows\docce_spogliatoio_thread.runtimeconfig.json
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\bin\Debug\net8.0-windows\docce_spogliatoio_thread.dll
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\bin\Debug\net8.0-windows\docce_spogliatoio_thread.pdb
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.Form1.resources
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.csproj.GenerateResource.cache
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.AssemblyInfoInputs.cache
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.AssemblyInfo.cs
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.csproj.CoreCompileInputs.cache
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.dll
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\refint\docce_spogliatoio_thread.dll
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.pdb
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\docce_spogliatoio_thread.genruntimeconfig.cache
+C:\Users\fusco.22376\Desktop\docce_spogliatoio_thread\docce_spogliatoio_thread\obj\Debug\net8.0-windows\ref\docce_spogliatoio_thread.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "docce_spogliatoio_thread/1.0.0": {
+        "runtime": {
+          "docce_spogliatoio_thread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "docce_spogliatoio_thread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
